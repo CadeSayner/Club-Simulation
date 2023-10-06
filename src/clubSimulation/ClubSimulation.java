@@ -1,5 +1,3 @@
-//M. M. Kuttel 2023 mkuttel@gmail.com
-
 package clubSimulation;
 // the main class, starts all threads
 import javax.swing.*;
