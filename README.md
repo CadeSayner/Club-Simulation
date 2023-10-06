@@ -4,6 +4,8 @@ Overview
 
 The simulation is built on a grid-based system where each block represents a position within the club. Patrons enter through the entrance door, move around the club, visit the bar to get a drink, and eventually leave through the exit doors. The simulation enforces several rules to mimic a realistic nightclub experience:
 
+Was developed as part of a project to show the benefits and dangers of concurrent programming in Java.
+
     Patrons enter and exit one at a time through the entrance and exit doors.
     The maximum number of patrons inside the club is limited.
     Patrons maintain a realistic distance from each other (one per grid block).
