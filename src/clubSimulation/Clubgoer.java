@@ -1,4 +1,3 @@
-//M. M. Kuttel 2023 mkuttel@gmail.com
 package clubSimulation;
 
 import java.util.Random;
