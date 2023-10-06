@@ -1,5 +1,3 @@
-//M. M. Kuttel 2023 mkuttel@gmail.com
-//Grid for the club
 
 package clubSimulation;
 
